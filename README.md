@@ -1,4 +1,4 @@
-# Echt oder KI-generiert? Bildklassifikation mit einem eigenen CNN
+# CNN zur Bildklassifikation
 
 Ein Convolutional Neural Network, von Grund auf in PyTorch gebaut (ohne Transfer Learning), unterscheidet echte Blumenfotos von KI-generierten Bildern. Die Aufgabe lief als Kaggle-Wettbewerb.
 
